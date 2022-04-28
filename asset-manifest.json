@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Danny/static/css/main.4358d695.css",
+    "main.js": "/Portfolio_Danny/static/js/main.a7079f91.js",
+    "static/media/truechamp.PNG": "/Portfolio_Danny/static/media/truechamp.11875c4c0cf18db3a09d.PNG",
+    "static/media/c.png": "/Portfolio_Danny/static/media/c.e095694584811ade286e.png",
+    "static/media/reddit.PNG": "/Portfolio_Danny/static/media/reddit.6a737b0c1507b618e850.PNG",
+    "static/media/sql.png": "/Portfolio_Danny/static/media/sql.587beab52ad8fb2bbbcf.png",
+    "static/media/python.png": "/Portfolio_Danny/static/media/python.f0c9d64775aac23759fe.png",
+    "static/media/snake.PNG": "/Portfolio_Danny/static/media/snake.8e26e8b6ae9b08bdaf50.PNG",
+    "static/media/react.png": "/Portfolio_Danny/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portfolio_Danny/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/logo.PNG": "/Portfolio_Danny/static/media/logo.a56942d8b3f8a9727bb8.PNG",
+    "static/media/html.png": "/Portfolio_Danny/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Portfolio_Danny/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio_Danny/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio_Danny/index.html",
+    "main.4358d695.css.map": "/Portfolio_Danny/static/css/main.4358d695.css.map",
+    "main.a7079f91.js.map": "/Portfolio_Danny/static/js/main.a7079f91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4358d695.css",
+    "static/js/main.a7079f91.js"
+  ]
+}
