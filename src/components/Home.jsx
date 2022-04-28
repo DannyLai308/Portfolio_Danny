@@ -1,5 +1,7 @@
 import React from 'react'
 import { HiArrowNarrowRight } from 'react-icons/hi'
+import { Link } from 'react-scroll'
+
 
 
 const Home = () => {
@@ -20,13 +22,13 @@ const Home = () => {
           on are building responsive front-end web applications and documenting software requirements specification.
         </p>
         <div>
-            <button className='text-[#8892b0] font-bold group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#F7DC6F] hover:border-[#F7DC6F]'>
+            <Link to='work' smooth={true} duration={500} className='text-[#8892b0] font-bold group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#F7DC6F] hover:border-[#F7DC6F]'>
               View My Works 
               <span className='group-hover:rotate-90 duration-300'>
                 <HiArrowNarrowRight className='ml-2'/>
               </span>
               
-            </button>
+            </Link>
 
         </div>
       </div>
